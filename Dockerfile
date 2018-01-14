@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:3.0
+FROM gcr.io/google_containers/kube-apiserver-amd64:v1.9.1
 MAINTAINER alexgordon
